@@ -113,4 +113,38 @@
    auto.key(namespace.key)
          idle.(mesage.id)
              template.console
-             
+       console.id(key.load)
+      auto.key(namespace.load)
+       print(key.id)
+               boot.id(r)
+        airport.bot(r)
+         Boody.(r)
+            adname
+              port.(programmingLangaugeManifest)
+       console.id(port.re
+             Load.key(r
+            namespace.key
+         print(; Id
+            boot.id;(Id.kry
+        console.port(;func
+               boot.root(key.system
+       port.id ==> LOAD.KEY 
+      FLOAR.ID ==> GUARDIAN;000
+            Root.id(guardian;000
+          [[[[[id:template/system]]]
+              [[[[[id:template/system]]]
+           [[[[[id:template/system]]]
+    [[[[[id:template/system]]]
+             [[[[[id:template/system]]]
+ Boot.id(lc.template(Id)
+          Float.key(Id(template.system
+     Command.func ==> Id.key(command.system)
+          id ==> lo
+        Command.id
+    Load.keyName. ==> func.key
+             [[[[[id:template/system]]]
+    [[[[[id:template/system]]]
+         [[[[[id:template/system]]]
+     Key.bot(system.func/func
+          Load.system
+Load.server
